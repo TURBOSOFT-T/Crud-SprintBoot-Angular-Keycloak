@@ -1,0 +1,2 @@
+# Crud-SprintBoot-Angular-Keycloak
+Keycloak offre des fonctionnalités telles que l’authentification unique (SSO), le courtage d’identité et la connexion sociale, la fédération d’utilisateurs, les adaptateurs clients, une console d’administration et une console de gestion de compte. Pour en savoir plus sur Keycloak, veuillez visiter la page official .  Dans notre didacticiel, nous utiliserons la console d’administration de Keycloak pour la configuration, puis la connexion à Spring Boot à l’aide de l’adaptateur client Keycloak.
